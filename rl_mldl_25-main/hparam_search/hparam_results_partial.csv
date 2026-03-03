@@ -1,0 +1,9 @@
+config,learning_rate,batch_size,seed,train_steps,n_eval,mean_return,std_return,seconds,device,model_path
+A,0.0003,256,0,50000,10,258.726673,8.99698134218332,598.5197429656982,cuda,/content/drive/MyDrive/rl_mldl_25_new/content/rl_mldl_25/hparam_search/models/sac_A_seed0.zip
+A,0.0003,256,1,50000,10,300.73917370000004,1.7951688639150958,592.1315565109253,cuda,/content/drive/MyDrive/rl_mldl_25_new/content/rl_mldl_25/hparam_search/models/sac_A_seed1.zip
+B,0.0001,256,0,50000,10,359.0739991,4.8896447351961125,591.4086256027222,cuda,/content/drive/MyDrive/rl_mldl_25_new/content/rl_mldl_25/hparam_search/models/sac_B_seed0.zip
+B,0.0001,256,1,50000,10,318.9852305,1.0325737729068232,591.6480264663696,cuda,/content/drive/MyDrive/rl_mldl_25_new/content/rl_mldl_25/hparam_search/models/sac_B_seed1.zip
+C,0.0003,512,0,50000,10,286.2546017,7.189037895820293,594.7843322753906,cuda,/content/drive/MyDrive/rl_mldl_25_new/content/rl_mldl_25/hparam_search/models/sac_C_seed0.zip
+C,0.0003,512,1,50000,10,270.10712759999996,131.21483579655944,597.7206816673279,cuda,/content/drive/MyDrive/rl_mldl_25_new/content/rl_mldl_25/hparam_search/models/sac_C_seed1.zip
+D,0.0001,512,0,50000,10,334.52000910000004,26.985649121909887,592.7040820121765,cuda,/content/drive/MyDrive/rl_mldl_25_new/content/rl_mldl_25/hparam_search/models/sac_D_seed0.zip
+D,0.0001,512,1,50000,10,294.1735834,1.6678248035559595,594.4201264381409,cuda,/content/drive/MyDrive/rl_mldl_25_new/content/rl_mldl_25/hparam_search/models/sac_D_seed1.zip

@@ -1,0 +1,16 @@
+torch==2.1.0
+setuptools==65.5.0
+wheel==0.38
+imageio
+imageio-ffmpeg
+moviepy
+stable-baselines3[extra]
+ipython
+importlib-metadata==4.13.0
+gym==0.21.0
+stable-baselines3[extra]==1.7.0
+cython<3
+mujoco-py<2.2,>=2.1
+Jinja2==3.1.2
+scipy
+patchelf
